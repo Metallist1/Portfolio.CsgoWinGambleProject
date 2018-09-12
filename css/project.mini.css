@@ -1,0 +1,1682 @@
+#right,
+.right {
+    float: right;
+    display: flex
+}
+.extra,
+.lvl,
+footer {
+    border-style: solid
+}
+.refreshPlace,
+footer {
+    width: 100%
+}
+.innerError,
+footer,
+header {
+    color: #fff
+}
+.refreshPlace,
+.submit,
+li a {
+    cursor: pointer
+}
+.dropdown,
+.head {
+    position: relative
+}
+.modal-content,
+div.main,
+footer,
+header,
+li {
+    font-family: NerisLight
+}
+#messages,
+.Rollitself ul li,
+ol {
+    list-style-type: none
+}
+.ChatMain,
+.Rulletmain {
+    align-content: stretch
+}
+@font-face {
+    font-family: NerisLight;
+    src: url(../fonts/nerislight.otf)
+}
+.right {
+    flex-direction: row;
+    justify-content: flex-end
+}
+#right {
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px
+}
+#right li {
+    padding-top: 0
+}
+footer {
+    flex: 0 1 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(9, 17, 31, .75);
+    border-bottom-color: rgba(215, 40, 40, .5);
+    border-width: 0 0 3px
+}
+.ChatMain,
+.head {
+    flex-flow: column nowrap
+}
+.innerError {
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 255, .2);
+    background-color: #f44336;
+    margin: 20px;
+    padding: 15px
+}
+.logo {
+    float: left;
+    display: block;
+    width: 139px;
+    height: 100%;
+    left: 0
+}
+#alllright{
+display: flex;
+}
+#logoleft li {
+    padding-top: 0
+}
+#alllright li {
+    padding-top: 0
+}
+
+#right{
+flex: 1;
+}
+.rightNav,
+li,
+ul {
+    height: auto
+}
+.midNav {
+    width: 100%;
+    background: linear-gradient(to bottom, #09101E 0, #09101E 12%, #09101E 70%, rgba(255, 255, 255, .05) 71%, rgba(255, 255, 255, .05) 72%, rgba(255, 255, 255, .05) 72%, rgba(255, 255, 255, .05) 80%, transparent 81%, transparent 91%, transparent 100%)
+}
+.head {
+    display: flex
+}
+.rightNav {
+    float: right;
+    display: inherit;
+    justify-content: flex-end
+}
+.dropbtn,
+li,
+li a,
+li.dropdown {
+    display: inline-block
+}
+.navigation {
+    width: 98%;
+    border-radius: 5px;
+    background-color: #212733;
+    margin: 0 20px 5px!important;
+    box-shadow: inset 0 -30px 55px 0 rgba(26, 31, 40, 1)
+}
+.dropdown-content,
+div.inspect {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2)
+}
+.navigation li {
+    padding-top: 0;
+    padding-left: 10px
+}
+.dropbtn,
+li a {
+    text-align: center;
+    padding: 14px 16px
+}
+li {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 12px;
+    text-shadow: 1px 1px #000
+}
+#userlist li {
+    width: 25%
+}
+.dropbtn,
+li a {
+    color: #fff;
+    text-decoration: none
+}
+ul {
+    margin-left: 20px!important;
+    width: auto;
+    padding: 0
+}
+.dropdown-content a,
+li a {
+    height: 50px;
+    text-decoration: none
+}
+.rightpos {
+    right: 0
+}
+li a {
+    display: block;
+    color: silver
+}
+a.icona {
+    padding: 5px 16px
+}
+li a:hover:not(.active) {
+    background-image: url(../images/button.webp);
+    background-position: bottom;
+    background-repeat: no-repeat
+}
+.active {
+    background-color: #4CAF50
+}
+a.dropdownOpen:active,
+a.dropdownOpen:hover {
+    color: rgba(215, 44, 44, 1)!important
+}
+li a:hover {
+    color: inherit
+}
+#userdrop {
+    right: 0;
+    margin: 0!important
+}
+#userdrop li {
+    width: 100%;
+    padding-left: 0
+}
+.TlinkError,
+.TlinkSucc {
+    display: none;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 255, .2);
+    padding: 5px;
+    margin: 0 0 5px;
+    color: #fff;
+    left: 0
+}
+.TlinkError {
+    background-color: #f44336
+}
+.TlinkSucc {
+    background-color: green
+}
+.submit {
+    display: inline-flex;
+    font-size: 13px;
+    padding: 13px 35px;
+    margin-right: 5px;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 2px;
+    user-select: none;
+    background-color: #4076FD;
+    border-style: none
+}
+.tradesmade,
+.usersonline {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 15px
+}
+.tradesmade {
+    line-height: 40px;
+    color: rgba(45, 173, 237, .8)
+}
+.usersonline {
+    display: inline-flex;
+    line-height: 46px;
+    color: #fff;
+    margin: 0 100px 0 0
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray
+}
+#botidentification,
+#userprice {
+    color: rgba(215, 44, 44, 1);
+    float: right;
+    padding: 5px
+}
+#botprice,
+#useridentification {
+    color: rgba(215, 44, 44, 1);
+    float: left;
+    padding: 5px
+}
+.selectbarLeft,
+.selectbarMid {
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center
+}
+.selectbarLeft {
+    float: left
+}
+.selectbarRight {
+    float: right;
+    padding: 5px 15px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 14px;
+    cursor: pointer
+}
+.dropbtn {
+    min-width: 160px;
+    min-height: 50px;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 200px;
+    font-size: 200px;
+    border: none;
+    cursor: pointer
+}
+.dropdown-content a {
+    color: #fff;
+    padding: 16px;
+    display: block;
+    text-align: center
+}
+.dropdown {
+    display: inline-block
+}
+.dropdown-content {
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: rgba(0, 0, 0, .9);
+    display: none;
+    position: absolute;
+    background-color: rgba(0, 0, 0, .7);
+    min-width: 100px;
+    overflow: auto;
+    z-index: 1
+}
+.left {
+    left: 0
+}
+.mid {
+    left: 20%
+}
+.dropdown-content a:focus,
+.dropdown-content a:hover {
+    color: #fff;
+    cursor: pointer;
+    background-color: #4076FD;
+}
+.links {
+    padding: 0 0 5px!important;
+    width: 15%;
+    color: #fff
+}
+a.links:active,
+a.links:focus,
+a.links:hover {
+    cursor: pointer
+}
+.show {
+    display: block
+}
+.hide {
+    display: none
+}
+div.Login {
+    max-height: 50px;
+    float: right
+}
+div.main {
+    flex: 1 1 auto;
+    width: 100%;
+    display: flex
+}
+div.item,
+div.items {
+    width: 32%;
+    height: 35%;
+    margin: 5px 0px 0px 5px;
+    position: relative;
+    background-size: 40% 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    border-top: 1px solid;
+    border-radius: 3px;
+    border-color: rgba(255, 255, 255, .1);
+    display: inline-flex;
+    flex-flow: column-reverse;
+    background-color: rgba(255, 255, 255, .05);
+}
+div.st {
+    position: absolute
+}
+div.small,
+div.top {
+    height: 15%;
+    margin: 0px 0px 0px 5px;
+}
+div.price {
+    background-color: #4076FD;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    border-color: #4076FD;
+    border-radius: 2px;
+    user-select: none;
+    border-width: thin;
+    vertical-align: middle;
+    border-style: solid;
+    text-align: center;
+}
+.priceout {
+    width: fit-content;
+    margin: 5px auto;
+    margin-top: auto;
+}
+a.MarketLink,
+div.st {
+    right: 0
+}
+div.wear {
+    text-align: center;
+}
+.nametagwrap {
+    height: 50%;
+    margin: 5px auto;
+    vertical-align: top;
+    color: grey;
+    font-size: 13px;
+}
+.nametag {
+    color: #ff8800;
+}
+.Timer,
+.modal,
+a.InspectLink {
+    left: 0
+}
+div.st {
+    top: 0;
+    width: 10%;
+    height: 25%;
+}
+div.box {
+    flex: 1;
+    margin: 0px 20px 10px 20px;
+    display: flex;
+    flex-flow: column;
+}
+.popover,
+div.inspect {
+    position: absolute
+}
+div.contain {
+    display: flex;
+    height: 100%;
+}
+div.small {
+    display: inline-block;
+    padding: 5px;
+    background-color: rgba(76, 174, 79, .8);
+    color: #000;
+    cursor: pointer;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 255, .2)
+}
+.popover-content,
+.popover-title {
+    background-color: rgba(215, 44, 44, .9)
+}
+div.bot_inventory,
+div.bot_inventory_selected,
+div.user_inventory,
+div.user_inventory_selected {
+    width: 100%;
+    height: 85%;
+    overflow-y: scroll
+}
+.popover-title {
+    min-width: 250px;
+    font-size: 14px!important;
+    color: rgba(255, 255, 255, 1)!important;
+    width: 100%;
+    display: inline-block;
+    margin: 15px 0 0!important;
+    border-radius: 3px 3px 0 0;
+    text-align: center
+}
+.modal,
+div.inspect {
+    display: none;
+    overflow: auto
+}
+.popover-content {
+    color: rgba(255, 255, 255, 1);
+    border-radius: 0 0 3px 3px
+}
+#sticker_info {
+    margin: 0!important;
+    border: 0!important;
+    font-size: 12px!important
+}
+div.inspect {
+    cursor: default;
+    background-color: #333;
+    text-shadow: 0 0 #000, 0 1px #000, 1px 0 #000, 0 0 #000;
+    margin: initial;
+    border-radius: 15px;
+    border: 1px solid #000;
+    text-align: center;
+    z-index: 999
+}
+#m,
+.ChatMain,
+.Rulletmain {
+    border-width: 1px
+}
+.modal {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .6)
+}
+.modal-content {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    cursor: default
+}
+.modal-inner {
+    width: 70%;
+    background-color: #fefefe;
+    margin: 0 auto;
+    padding: 20px;
+    cursor: default;
+    background-color: rgba(0, 0, 0, .8);
+    color: grey
+}
+#m,
+#messages li a {
+    padding: 5px;
+    color: #fff
+}
+#m,
+#messages li a,
+.dropdownOpen {
+    cursor: pointer
+}
+.close {
+    top: 0;
+    float: right;
+    color: #aaa;
+    font-size: 28px;
+    font-weight: 700
+}
+.close:focus,
+.close:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer
+}
+a.dropdownOpen {
+    color: #fff!important
+}
+.ChatMain {
+    display: flex;
+    width: 25%;
+    margin: 5px 10px 40px;
+    border-radius: 5px;
+    background-color: rgba(9, 17, 31, .75)
+}
+.msgwin {
+    height: 100%;
+    word-break: break-all;
+    margin: 10px;
+    overflow-y: auto
+}
+#messages {
+    margin: 0 0 40px;
+    padding: 0
+}
+#messages li {
+    font-size: 12px;
+    float: left;
+    width: 100%;
+    padding: 5px 10px 5px 0;
+    color: #fff
+}
+.Roll,
+.Timer {
+    font-size: 14px
+}
+#messages li a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    height: auto;
+    width: max-content
+}
+#m {
+    background-color: #101014;
+    display: inline-flex;
+    border-radius: 3px;
+    box-shadow: inset 0 -3px 0 rgba(0, 0, 0, .35)
+}
+.Rulletmain {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 73%;
+    margin: 5px 10px 40px;
+    border-radius: 10px
+}
+.Roll {
+    height: 50px;
+    background-color: rgba(17, 20, 29, .5);
+    overflow: hidden;
+    padding: 3px
+}
+#black,
+#red {
+    user-select: none;
+    background-color: #212733;
+    box-shadow: inset 0 30px 55px 0 rgba(26, 31, 40, 1)
+}
+#blackU li,
+#greenU li,
+#redU li {
+    padding: 5px 0 0 5px
+}
+.Timer {
+    transition: none!important;
+    -webkit-transition: none!important;
+    -moz-transition: none!important;
+    -o-transition: none!important;
+    width: 100%;
+    text-align: center;
+    line-height: 45px;
+    color: #373737
+}
+#progressbar {
+    width: 100%;
+    height: 45px;
+    background: rgba(71, 119, 230, .65);
+    background: -webkit-linear-gradient(to right, rgba(71, 119, 230, .65), rgba(141, 83, 233, .65));
+    background: linear-gradient(to right, rgba(71, 119, 230, .65), rgba(141, 83, 233, .65))
+}
+.Rollitselfpointer,
+.black,
+.green,
+.red {
+    background-repeat: no-repeat
+}
+#timer {
+    position: absolute;
+    width: 72%;
+    color: #fff
+}
+.Rollitself {
+    height: 90px;
+    width: 99%;
+    margin: 0 auto;
+    position: relative;
+    user-select: none;
+    cursor: default;
+    overflow: hidden
+}
+#black,
+#green,
+#red {
+    display: flex;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    border-width: 1px;
+    border-radius: 3px;
+    margin: 5px 5px 10px;
+    vertical-align: middle;
+    line-height: 46px
+}
+#blackU,
+#greenU,
+#redU {
+    margin: 0!important;
+    background-color: transparent;
+    color: #fff
+}
+#black,
+#green,
+#red,
+.extra,
+.footicona {
+    cursor: pointer
+}
+.Rollitselfpointer {
+    width: 35px;
+    background-image: url(../images/pointer.webp);
+    position: absolute;
+    left: 50%;
+    height: 70px;
+    z-index: 0
+}
+#blackU,
+#blackU li,
+#greenU,
+#greenU li,
+#redU,
+#redU li {
+    width: 100%
+}
+.OptionMeniu {
+    display: flex
+}
+#black,
+#red {
+    color: #fff
+}
+#green {
+    background-color: #F9F9F9;
+    box-shadow: inset 0 10px 67px -12px rgba(26, 31, 40, 1);
+    color: grey;
+    user-select: none
+}
+.UsersB,
+.UsersG,
+.UsersR {
+    text-align: left;
+    border-radius: 13px;
+    overflow: auto;
+    border-width: 1px;
+    font-size: 13px;
+    user-select: none
+}
+#black:active,
+#green:active,
+#red:active {
+    transform: translateY(4px)
+}
+.UsersG {
+    flex: 1 1 60px;
+    color: #fff
+}
+.UsersR {
+    flex: 1 1 60px
+}
+.UsersB {
+    flex: 1 1 60px
+}
+.boxB,
+.boxR {
+    justify-content: flex-end
+}
+.blue,
+.extraI {
+    background-color: #4076FD
+}
+.boxB,
+.boxG,
+.boxR {
+    display: inline-flex;
+    width: 70px;
+    height: 69px;
+    margin-bottom: 3px;
+    padding: 0
+}
+.boxR {
+    background-image: url(../images/tside.webp)
+}
+.boxB {
+    background-image: url(../images/ctside.webp)
+}
+.boxG {
+    background-image: url(../images/tied.webp);
+    justify-content: flex-end
+}
+.Rollitself ul {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap
+}
+.Rollitself ul li {
+    display: inline-flex;
+    float: none;
+    height: 70px;
+    padding: 0;
+    margin: -2px
+}
+.Balances {
+    font-size: 13px;
+    padding: 10px 20px;
+    color: silver;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center
+}
+.rollHistory {
+    border-width: 1px;
+    border-radius: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    float: left;
+    margin-left: 5px;
+    color: #eee;
+    width: 40px;
+    height: 40px
+}
+.History,
+.extraI,
+.footertext,
+.footicona,
+.lvl {
+    display: inline-flex
+}
+.red {
+    background-image: url(../images/prevt.webp)
+}
+.black {
+    background-image: url(../images/prevct.webp)
+}
+.green {
+    background-image: url(../images/prevtied.webp)
+}
+.History {
+    font-size: 13px;
+    padding: 10px 5px;
+    align-items: center;
+    margin: 0 0 9px;
+    height: 60px
+}
+.extraI {
+    float: right;
+    padding: 5px 10px;
+    margin: 0 15px 0 3px;
+    border-radius: 3px
+}
+.yellowchat {
+    color: #ff0
+}
+.whitechat {
+    color: #fff
+}
+.redchat {
+    color: #bb2e30
+}
+.lvl {
+    padding: 3px;
+    border-color: #B08C0D;
+    color: #B08C0D;
+    height: 20%;
+    border-radius: 2px;
+    border-width: thin
+}
+.footicona {
+    float: left;
+    margin: 5px
+}
+.footertext {
+    margin: 10px;
+    font-size: 14px
+}
+.OptionMeniuUsers,
+.boxas {
+    display: flex
+}
+.boxas {
+    flex-flow: column;
+    height: 100%
+}
+.msgimp {
+    margin: 5px 10px 10px;
+    height: 58px
+}
+.Player {
+    margin: 2px 5px 2px 2px;
+    border-width: 3px;
+    border-radius: 50%;
+    height: fit-content
+}
+.Rollitselfextra {
+    margin: 0 20px 10px;
+    display: flex
+}
+.extra {
+    font-size: 13px;
+    padding: 13px 20px;
+    margin-right: 5px;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 2px;
+    display: inline-flex;
+    user-select: none;
+    border-width: thin
+}
+#refreshBalance {
+    cursor: pointer;
+    height: 20px;
+    margin-left: 5px
+}
+.msgwin::-webkit-scrollbar {
+    display: none
+}
+.UsersB::-webkit-scrollbar {
+    display: none
+}
+.UsersG::-webkit-scrollbar {
+    display: none
+}
+.UsersR::-webkit-scrollbar {
+    display: none
+}
+.user_inventory::-webkit-scrollbar {
+    display: none
+}
+.user_inventory_selected::-webkit-scrollbar {
+    display: none
+}
+.betinsider::-webkit-scrollbar {
+    display: none
+}
+.OptionMeniuUserBet {
+    display: flex;
+    height: 100%
+}
+.OptionMeniuTotalBet {
+    display: flex
+}
+body {
+    background-image: url(../images/background.webp);
+    background-attachment: fixed
+}
+.blue {
+    border-style: none
+}
+.OptionsBalanceMeniu {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: rgba(255, 255, 255, .1);
+    margin: 9px 0
+}
+.balanceIN {
+    background-color: #4076FD;
+    padding: 5px 10px;
+    margin: 0 3px;
+    border-radius: 3px;
+    color: #fff
+}
+#Bet {
+    padding: 12px 20px;
+    margin: 0 3px;
+    display: inline-flex;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+    width: 400px
+}
+#Tradelink,
+#msg {
+    border-radius: 2px;
+    box-sizing: border-box
+}
+.Rollitselfe {
+    width: 100%;
+    background-color: rgba(17, 20, 29, .5);
+    margin: 9px 0
+}
+.OptionAll {
+    background-color: rgba(9, 17, 31, .75);
+    flex: 1
+}
+.both,
+.counter,
+.terrorists {
+    margin: 5px 7px 15px;
+    display: flex;
+    flex: 1;
+    background-color: rgba(24, 29, 37, .45);
+    flex-flow: column nowrap
+}
+#blackbet,
+#greenbet,
+#redbet {
+    color: #fff;
+    text-align: right;
+    display: inline-flex
+}
+#blacktotalbet,
+#greentotalbet,
+#redtotalbet {
+    flex: 1;
+    color: silver;
+    padding: 0 0 0 5px
+}
+#betsumblack,
+#betsumgreen,
+#betsumred {
+    display: inline-flex;
+    color: #fff;
+    margin: 0 0 0 3px
+}
+.AFCurr,
+.AFCurrAmout,
+.AFCurrCoin,
+.AFCurrLVL,
+.AFREALCurrAmout {
+    width: 100%;
+    color: #fff;
+    border-color: #4076FD;
+    border-style: solid;
+    border-width: thin;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, .8);
+    padding: 13px 20px
+}
+#Tradelink,
+#msg,
+.Affiliantes {
+    border-color: grey
+}
+.bothdeep,
+.counterdeep,
+.terroristsdeep {
+    display: inline-flex;
+    border-style: solid;
+    border-bottom-color: grey;
+    padding: 0 0 10px 5px;
+    margin: 0 0 10px;
+    border-width: 0 0 1px
+}
+#userbet {
+    flex: 1;
+    color: silver;
+    text-align: end;
+    padding: 0 20px 0 0
+}
+#Tradelink,
+#msg,
+.whatisit {
+    color: #fff;
+    border-style: solid
+}
+#msg {
+    width: 100%;
+    margin: 3px;
+    display: inline-block;
+    background-color: rgba(9, 17, 31, .75);
+    padding: 20px
+}
+.msgoutside {
+    display: flex;
+    flex-flow: column
+}
+.msgInf {
+    display: inline-flex;
+    width: 100%
+}
+.msgrealvalue {
+    padding: 0 0 0 5px
+}
+.whatisit {
+    font-size: 15px;
+    border-bottom-color: #181d25;
+    padding: 15px 0 10px 5px;
+    margin: 0 10px 5px;
+    border-width: 0 0 10px
+}
+.Discription,
+.Top,
+.TopHistory {
+    border-bottom-color: grey
+}
+#Tradelink {
+    width: 550px;
+    margin: 0 3px 3px 0;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, .8);
+    padding: 13px 20px
+}
+.AFsubmit,
+.Codesubmit {
+    background-color: #4076FD;
+    font-size: 13px;
+    margin: 5px;
+    color: #fff;
+    user-select: none;
+    border-radius: 2px;
+    cursor: pointer;
+    display: inline-flex
+}
+.Codesubmit {
+    padding: 13px 37px
+}
+.AFsubmit {
+    padding: 13px 40px;
+    border-width: thin
+}
+.fitform {
+    width: fit-content;
+    display: inline-flex
+}
+.Affiliantes {
+    background-color: rgba(0, 0, 0, .8);
+    border-style: solid;
+    border-radius: 2px;
+    border-width: thin;
+    width: fit-content;
+}
+.First,
+.Second,
+.third {
+    background-color: rgba(0, 0, 0, .85)
+}
+.codereddem,
+.youraffiliatecode {
+    border-style: none!important
+}
+.Top,
+.number {
+    border-style: solid
+}
+.AFreddem {
+    color: green;
+    cursor: pointer
+}
+.ReddemcodeDis,
+.number,
+.numbertxt {
+    color: #fff;
+    font-size: 15px
+}
+.number {
+    border-radius: 50%;
+    display: inline-flex;
+    border-color: #4076FD;
+    border-width: 2px;
+    padding: 3px 10px
+}
+.Top {
+    width: 100%;
+    padding: 0 0 10px 5px;
+    margin: 0 0 10px;
+    border-width: 0 0 1px
+}
+.numbertxt {
+    display: inline-flex
+}
+.Inflexing,
+.InfoFirst {
+    display: flex
+}
+.ReddemcodeDis {
+    margin: 20px 0 5px
+}
+.Info {
+    margin: 0 0 5px
+}
+.InfoFirst {
+    margin: 0 50px 0 0;
+    flex-flow: column nowrap
+}
+.First {
+    margin: 0 0 50px
+}
+.bluechat {
+    color: #4076FD
+}
+.AFError,
+.AFSucc,
+.CodeError,
+.CodekSucc,
+.LVLError,
+.LVLSucc {
+    display: none;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 255, .2);
+    color: #fff;
+    padding: 5px;
+    left: 0;
+    margin: 0 0 5px
+}
+.AFError,
+.CodeError,
+.LVLError {
+    background-color: #f44336
+}
+.AFSucc,
+.CodekSucc,
+.LVLSucc {
+    background-color: green
+}
+#afflink,
+.Discription,
+.LVLreddem,
+.TopHistory {
+    border-style: solid
+}
+.Elipse {
+    display: inline-flex;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 46px;
+    font-size: 15px;
+    margin: 0 5px 0 0
+}
+.bigblack,
+.biggray {
+    font-weight: bolder;
+    font-size: 28px;
+    flex: 1;
+    margin: 0 20px 0 0
+}
+.biggray {
+    color: rgba(9, 17, 31, .75)
+}
+.bigblack {
+    color: rgba(9, 17, 31, 1)
+}
+.bettinginformation,
+.historicalvalue,
+.insidefit {
+    flex: 1;
+    text-align: center
+}
+.insidefit {
+    vertical-align: middle;
+    line-height: 46px;
+    font-size: 15px;
+    margin: 0 5px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start
+}
+#table,
+#tablee,
+.TopLVl {
+    flex-flow: column
+}
+.rounded {
+    border-width: 3px;
+    border-radius: 50%
+}
+.Historys {
+    overflow: hidden;
+    width: 99%;
+    margin: 0 auto
+}
+.OutherHistory {
+    width: 100%;
+    background-color: rgba(17, 20, 29, .5)
+}
+.anothaone,
+.msgoutside {
+    width: 100%
+}
+.status {
+    background-color: #4076FD;
+    padding: 5px 10px;
+    margin: 0 3px;
+    border-radius: 3px;
+    color: #fff
+}
+#afflink,
+.table {
+    background-color: rgba(0, 0, 0, .8)
+}
+.Discription {
+    font-size: 15px;
+    color: #fff;
+    padding: 0 0 10px 5px;
+    margin: 0 0 10px;
+    border-width: 0 0 1px
+}
+#afflink {
+    margin: 0 5px;
+    display: inline-block;
+    color: #fff;
+    border-color: grey;
+    border-radius: 2px;
+    box-sizing: border-box;
+    padding: 13px 20px
+}
+.win {
+    color: green
+}
+.lose {
+    color: red
+}
+.HistoryBetCount,
+.HistoryBiggestBet,
+.HistoryBiggestWin,
+.HistoryTotalCount,
+.HistoryTotalWinCount {
+    width: 100%;
+    color: #fff;
+    border-color: #4076FD;
+    border-style: solid;
+    border-width: thin;
+    box-sizing: border-box;
+    padding: 13px 20px
+}
+.TopHistory {
+    padding: 0 0 10px 5px;
+    margin: 0 0 30px;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    border-width: 0 0 1px
+}
+#table li,
+.tablebackground td {
+    padding: 5px
+}
+.table {
+    width: 100%
+}
+.tablebackground {
+    display: inline-flex;
+    background-color: rgba(255, 255, 255, .1)
+}
+#table,
+#tablee,
+#table li {
+    display: flex;
+    width: 100%
+}
+#tablee {
+    margin: 0!important;
+}
+#table {
+    overflow: auto;
+    margin: 0!important
+}
+#table li {
+    margin: 0 0 2px;
+    align-items: center;
+    background-color: rgba(24, 29, 37, .45)
+}
+.HistoryHome,
+.HistoryNext,
+.Historyprevs,
+.LVLreddem {
+    display: inline-flex;
+    cursor: pointer;
+    user-select: none
+}
+.betinside {
+    color: #fff;
+    height: 400px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .85);
+    margin: 10px 0 0
+}
+.bethistorytxt {
+    font-size: 14px;
+    padding: 10px 0
+}
+.betinsider {
+    height: 100%;
+    width: 100%;
+    overflow: auto
+}
+.losebar,
+.winbar {
+    padding: 5px 10px;
+    margin: 0 auto;
+    border-radius: 3px;
+    width: fit-content;
+    color: #fff
+}
+.winbar {
+    background-color: green
+}
+.losebar {
+    background-color: red
+}
+.darker {
+    background-color: rgba(0, 0, 0, .85)!important;
+    display: flex;
+    margin: 0 0 2px;
+    padding: 5px;
+}
+.HistoryHome,
+.HistoryNext,
+.Historyprevs {
+    background-color: #4076FD;
+    font-size: 13px;
+    padding: 13px 40px;
+    color: #fff;
+    border-radius: 2px;
+    border-width: thin
+}
+.HistoryHomeoutside,
+.HistoryNextoutside,
+.Historyprevsoutside {
+    font-size: 13px;
+    margin: 10px 5px 0 4px;
+    color: #fff;
+    border-radius: 2px;
+    user-select: none;
+    flex: 1
+}
+.LVLreddem {
+    font-size: 13px;
+    padding: 5px 40px;
+    margin: 5px;
+    color: #fff;
+    border-radius: 5px;
+    border-width: 10px;
+    border-color: rgba(63, 117, 253, .1)
+}
+.TopLVl {
+    width: 100%;
+    padding: 0 0 10px 5px;
+    margin: 0 0 10px;
+    display: flex;
+    align-items: center
+}
+.LVLCurr {
+    display: inline-flex;
+    color: #fff;
+    margin: 0 0 20px
+}
+.MidLVl,
+.decisions {
+    display: flex
+}
+.CollectTXT,
+.LVLtxt {
+    margin: 0 0 10px;
+    color: #fff
+}
+.lvlamounth {
+    padding: 0 0 0 5px
+}
+.MidLVl {
+    flex-flow: column;
+    align-items: center
+}
+.LVLtxt {
+    font-size: 24px;
+    text-align: center
+}
+#LVLbar {
+    height: 5px;
+    background: #ff0
+}
+.LVLOutsidebar {
+    height: 50px;
+    font-size: 14px;
+    padding: 5px;
+    width: 100%;
+}
+.LVLOutsidebarr {
+    width: 100%;
+    height: 100%
+}
+.LVLbaroutside {
+    background-color: rgba(17, 20, 29, .5)
+}
+.pointer {
+    display: block;
+    width: fit-content;
+    margin: 2px 0
+}
+.LVLCurrAmout,
+.Point,
+.paragrafff {
+    width: 100%
+}
+.LVLPointerTXT {
+    margin-left: auto;
+    margin-right: 0
+}
+.white {
+    color: #fff
+}
+.darkamount {
+    padding: 0 0 0 5px;
+    color: rgba(99, 99, 99, 1);
+    font-size: 12px
+}
+.leftstrong {
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start
+}
+.lvlamonth {
+    margin: 30px 0 5px
+}
+.containerLVL {
+    display: inline-flex;
+    flex-flow: column
+}
+.lvltimerIMG {
+    display: inline-flex;
+    vertical-align: bottom;
+    margin: 0 5px 5px 0
+}
+.lvltime,
+.timertext {
+    margin: 0 auto
+}
+.LVLCurrLVL {
+    margin: 0 15px 20px 0
+}
+.lvldarker {
+    background-color: rgba(0, 0, 0, .9)
+}
+.StrongText {
+    font-size: 16px;
+    color: #4076FD;
+    width: 100%
+}
+.Point {
+    color: #fff
+}
+.paragrafff {
+    margin: 0 0 10px
+}
+.FAQmainbody {
+    width: 100%;
+}
+.linksFAQ {
+    margin: 0 5px 0 0!important;
+    color: #bb2e30
+}
+.Supportmainbody,
+.TOSmainbody {
+    width: 100%
+}
+.StrongTextred {
+    font-size: 17px;
+    color: #bb2e30;
+    width: 100%
+}
+.activegame {
+    color: inherit;
+    background-image: url(../images/button.webp);
+    background-position: bottom;
+    background-repeat: no-repeat
+}
+.center {
+    text-align: center
+}
+.rolloutside {
+    width: 100%;
+    padding: 20px 10px;
+    background-color: rgba(17, 20, 29, .5)
+}
+.TopWD {
+    width: 100%;
+    padding: 0px 0px 10px 5px;
+    margin: 10px 0px 10px 0px;
+}
+.Withdrawtext {
+    font-size: 25px;
+    text-align: center;
+    margin: 0 0 10px;
+    color: #fff;
+}
+.bot {
+    font-size: 13px;
+    padding: 13px 20px;
+    margin-right: 5px;
+    color: #fff;
+    border-color: grey;
+    border-radius: 2px;
+    display: inline-flex;
+    user-select: none;
+    border-width: thin;
+    border-style: solid;
+    cursor: pointer;
+}
+.nonselect {
+    user-select: none;
+    cursor: default;
+}
+.botactive {
+    background-color: #4076FD;
+    border-color: #4076FD;
+}
+#ItemsInput {
+    width: 25%;
+    margin: 10px 5px 0px 0px;
+    display: inline-block;
+    color: #fff;
+    border-width: thin;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 2px;
+    padding: 13px 20px;
+    background-color: rgba(0, 0, 0, .0);
+}
+.sorter {
+    margin: 5px 0px 0px 5px;
+    font-size: 13px;
+    padding: 13px 20px;
+    margin-right: 5px;
+    color: #fff;
+    border-color: grey;
+    border-radius: 2px;
+    display: inline-flex;
+    user-select: none;
+    border-width: thin;
+    border-style: solid;
+    cursor: pointer;
+    justify-content: flex-start !important;
+}
+.containboth {
+    margin: 20px;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    background-color: rgba(17, 20, 29, .5);
+}
+.withdrawButton {
+    font-size: 13px;
+    flex-flow: column;
+    align-items: center;
+    width: 100%;
+    padding: 13px 20px;
+    margin-right: 5px;
+    color: #fff;
+    border-color: grey;
+    border-radius: 2px;
+    display: inline-flex;
+    user-select: none;
+    border-width: thin;
+    border-style: solid;
+    cursor: pointer;
+    height: 95%;
+}
+.WithdrawtxtIngeneral {
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    flex-flow: column;
+}
+#userprice,
+.userpriceinside,
+#useridentification,
+.useridentificationCLASS,
+#availabelcoins,
+.userpriceinsid {
+    display: inline-flex;
+    color: white;
+}
+#userprice,
+#useridentification,
+#availabelcoins {
+    padding: 5px 0px 0px 0px;
+}
+.Withdrawbuttontxt {
+    font-size: 18px;
+    text-align: center;
+}
+.WithdrawBtxt {
+    display: inline-flex;
+}
+#availabelcoins {
+    padding: 5px;
+}
+#userprice {
+    padding: 5px 5px 0px 0px;
+}
+.userpriceinside {
+    padding: 0px 5px 0px 0px;
+}
+.useridentificationCLASS {
+    padding: 0px 0px 0px 5px;
+}
+.userpriceinsid {
+    padding: 0px 0px 0px 5px;
+}
+#dropingdown {
+    display: inline-block;
+}
+.fitwidth {
+    width: fit-content;
+}
+.otherrow {
+    width: 98%;
+    margin: 5px 0px;
+}
+.flexable {
+    display: flex;
+    flex-flow: column-reverse;
+}
+@media only screen and (max-width: 1024px) {
+.taballign{
+overflow: auto !important;
+height: 90% !important;
+}
+}
+.taballign{
+
+}

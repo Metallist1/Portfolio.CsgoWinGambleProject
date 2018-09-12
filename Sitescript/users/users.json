@@ -1,0 +1,20 @@
+{
+    "bots": {
+        "bot1": {
+        "accountName": "areureadyforthis1",
+        "password": "",
+        "twoFactorCode": "",
+        "identitySecret": "",
+        "steamID64": "76561198263760347",
+        "personaName": "SAZONE.LT BOT1"
+     },
+        "bot2": {
+        "accountName": "potato_boy1",
+        "password": "",
+        "twoFactorCode": "",
+        "identitySecret": "",
+        "steamID64": "76561198165970813",
+        "personaName": "SAZONE.LT BOT2"
+     }
+   }
+}
